@@ -1,0 +1,10 @@
+servers:
+- ips:
+  - google.es
+  name: Google
+- ips:
+  - googlecito.es
+  name: Googlecito
+- ips:
+  - facebook.es
+  name: Facebook

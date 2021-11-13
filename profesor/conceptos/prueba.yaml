@@ -1,0 +1,7 @@
+servers:
+    - name: Google
+      ips:
+        - google.es
+    - name: Googlecito
+      ips:
+        - googlecito.es
